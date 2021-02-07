@@ -1,0 +1,4 @@
+source-han-serif font:
+https://github.com/adobe-fonts/source-han-serif/tree/release/OTF/TraditionalChinese
+
+http://www.sentaifilmworks.com/a/news/anime-titles-with-spectacular-background-art
